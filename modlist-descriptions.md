@@ -139,7 +139,7 @@ A comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) tha
 
 ---
 
-### [Curseadelica](https://github.com/Arkay-1248/Do-Not-Go-Gentle](https://github.com/JanuarySnow/Curseadelica)
+### [Curseadelica](https://github.com/JanuarySnow/Curseadelica)
 
 Curseadelica is a perfectly normal and sane modlist.
 You should choose this modlist if you are a perfectly normal and sane person.
