@@ -13,6 +13,7 @@
     -   [Anvil](#anvil)
     -   [Arkay's Commandment](#arkays-commandment)
     -   [Ascensio](#ascensio)
+    -   [Curseadelica](#curseadelica)
     -   [Do Not Go Gentle](#do-not-go-gentle)
     -   [Elysium Remastered](#elysium-remastered)
     -   [Fahdon](#fahdon)
@@ -53,6 +54,7 @@
     -   [Somnium: In Every Shadow](#somnium-in-every-shadow)
 -   [Skyrim Special Edition - VR](#skyrim-special-edition---vr)
     -   [Auriels Dream](#auriels-dream)
+    -   [CurseadelicaVR](#curseadelicavr)
     -   [Diabolist VR](#diabolist-vr)
     -   [FUS](#fus)
     -   [Librum for Skyrim SE and VR](#librum-for-skyrim-se-and-vr-1)
@@ -134,6 +136,13 @@ A comprehensive visual overhaul modlist for Skyrim Special Edition (v1.5.97) tha
 **_Mods to get familiar with:_**
 
 -   [Full Modlist](https://loadorderlibrary.com/lists/ascensio-1)
+
+---
+
+### [Curseadelica](https://github.com/Arkay-1248/Do-Not-Go-Gentle](https://github.com/JanuarySnow/Curseadelica)
+
+Curseadelica is a perfectly normal and sane modlist.
+You should choose this modlist if you are a perfectly normal and sane person.
 
 ---
 
@@ -708,6 +717,13 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 [VRIK Player Avatar](https://www.nexusmods.com/skyrimspecialedition/mods/23416)
 [HIGGS - Hand Interaction and Gravity Gloves for Skyrim VR](https://www.nexusmods.com/skyrimspecialedition/mods/38539)
 [Spell Wheel VR](https://www.nexusmods.com/skyrimspecialedition/mods/47630)
+
+---
+
+### [Curseadelica VR](https://github.com/JanuarySnow/Curseadelica)
+
+Curseadelica VR is a perfectly normal and sane modlist in terrifyingly detailed Virtual Reality.
+Please only play if you do not have a heart condition.
 
 ---
 
