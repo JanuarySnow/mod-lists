@@ -720,7 +720,7 @@ Auriel's Dream is a warm welcome into modded SkyrimVR. The focus is mostly on st
 
 ---
 
-### [Curseadelica VR](https://github.com/JanuarySnow/Curseadelica)
+### [CurseadelicaVR](https://github.com/JanuarySnow/Curseadelica)
 
 Curseadelica VR is a perfectly normal and sane modlist in terrifyingly detailed Virtual Reality.
 Please only play if you do not have a heart condition.
