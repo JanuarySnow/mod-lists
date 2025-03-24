@@ -1,47 +1,4 @@
 [
-    {
-    "title": "TEST",
-    "description": "test",
-    "author": "JanuarySnow",
-    "maintainers": [
-      "github/JanuarySnow"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Overhaul",
-      "LOTD",
-      "Legacy of the Dragonborn",
-      "Simonrim",
-      "official"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": false,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "https://raw.githubusercontent.com/Januarysnow/Curseadelica/main/banner.webp",
-      "readme": "https://github.com/JanuarySnow/Curseadelica/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Skyrim%20Modding%20Essentials.wabbajack_735be164-739c-468b-9e66-f422389b1a13",
-      "machineURL": "test",
-      "discordURL": "https://discord.gg/xRrHRsb5e9",
-      "websiteURL": ""
-    },
-    "download_metadata": {
-      "Hash": "Tq8Wr2xNk3c=",
-      "Size": 28247625,
-      "NumberOfArchives": 333,
-      "SizeOfArchives": 18531258776,
-      "NumberOfInstalledFiles": 21531,
-      "SizeOfInstalledFiles": 20446065494,
-      "TotalSize": 38977324270
-    },
-    "version": "0.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "0001-01-01T00:00:00",
-    "repositoryName": ""
-  },
   {
     "title": "Tempus Maledictum",
     "description": "From the creator of Magnum Opus comes Tempus Maledictum! What this is: An extremely stable Enairim power fantasy centered around Legacy of the Dragonborn and over two dozen quest mods for you to conquer and explore. What this isn\u0027t: A punishing Souls-like with real-life survival mechanics. I\u0027m here to have fun. Are you?",
